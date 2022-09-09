@@ -1,6 +1,6 @@
 [![stars](https://img.shields.io/github/stars/theavoid/disend?color=yellow&logo=github&style=for-the-badge)](https://github.com/theavoid/disend)
 [![license](https://img.shields.io/github/license/theavoid/disend?logo=github&style=for-the-badge)](https://github.com/theavoid/disend)
-[![supportServer](https://img.shields.io/discord/711995199945179187?color=7289DA&label=Support&logo=discord&style=for-the-badge)](https://discord.com/users/599722407913062417)
+[![supportServer](https://img.shields.io/discord/855731355131969596?color=7289DA&label=Support&logo=discord&style=for-the-badge)](https://discord.com/users/599722407913062417)
 [![forks](https://img.shields.io/github/forks/theavoid/disend?color=green&logo=github&style=for-the-badge)](https://github.com/theavoid/disend)
 [![issues](https://img.shields.io/github/issues/theavoid/disend?color=red&logo=github&style=for-the-badge)](https://github.com/theavoid/disend)
 
