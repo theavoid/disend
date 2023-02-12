@@ -1,1 +1,1 @@
-https://cheater.fodex.tech/v1
+http://localhost/plugin/api
